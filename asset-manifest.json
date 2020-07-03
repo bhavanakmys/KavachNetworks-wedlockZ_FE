@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%20KavachNetworks-wedlockZ_FE/static/css/main.11fc5ca3.chunk.css",
+    "main.js": "/%20KavachNetworks-wedlockZ_FE/static/js/main.d4a91b87.chunk.js",
+    "main.js.map": "/%20KavachNetworks-wedlockZ_FE/static/js/main.d4a91b87.chunk.js.map",
+    "runtime-main.js": "/%20KavachNetworks-wedlockZ_FE/static/js/runtime-main.1744ac08.js",
+    "runtime-main.js.map": "/%20KavachNetworks-wedlockZ_FE/static/js/runtime-main.1744ac08.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/%20KavachNetworks-wedlockZ_FE/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8a32d6a0.chunk.js": "/%20KavachNetworks-wedlockZ_FE/static/js/2.8a32d6a0.chunk.js",
+    "static/js/2.8a32d6a0.chunk.js.map": "/%20KavachNetworks-wedlockZ_FE/static/js/2.8a32d6a0.chunk.js.map",
+    "index.html": "/%20KavachNetworks-wedlockZ_FE/index.html",
+    "precache-manifest.7a5691f6e85ec67dd9c37e143f63095e.js": "/%20KavachNetworks-wedlockZ_FE/precache-manifest.7a5691f6e85ec67dd9c37e143f63095e.js",
+    "service-worker.js": "/%20KavachNetworks-wedlockZ_FE/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/%20KavachNetworks-wedlockZ_FE/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.11fc5ca3.chunk.css.map": "/%20KavachNetworks-wedlockZ_FE/static/css/main.11fc5ca3.chunk.css.map",
+    "static/js/2.8a32d6a0.chunk.js.LICENSE.txt": "/%20KavachNetworks-wedlockZ_FE/static/js/2.8a32d6a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1744ac08.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8a32d6a0.chunk.js",
+    "static/css/main.11fc5ca3.chunk.css",
+    "static/js/main.d4a91b87.chunk.js"
+  ]
+}
